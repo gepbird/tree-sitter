@@ -14,7 +14,7 @@
 #define MAX_NEGATED_FIELD_COUNT 8
 #define MAX_STATE_PREDECESSOR_COUNT 256
 #define MAX_ANALYSIS_STATE_DEPTH 8
-#define MAX_ANALYSIS_ITERATION_COUNT 256
+#define MAX_ANALYSIS_ITERATION_COUNT 32
 
 /*
  * Stream - A sequence of unicode characters derived from a UTF8 string.
